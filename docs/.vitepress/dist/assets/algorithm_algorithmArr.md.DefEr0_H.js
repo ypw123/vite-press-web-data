@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as a}from"./chunks/framework.DdEQ9fwu.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/algorithmArr.md","filePath":"algorithm/algorithmArr.md"}'),e={name:"algorithm/algorithmArr.md"};function o(i,m,s,c,n,l){return a(),t("div")}const _=r(e,[["render",o]]);export{p as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a}from"./chunks/framework.DdEQ9fwu.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basicKnowledge/cssBasic.md","filePath":"basicKnowledge/cssBasic.md"}'),c={name:"basicKnowledge/cssBasic.md"};function t(o,n,r,i,d,p){return a(),s("div")}const m=e(c,[["render",t]]);export{l as __pageData,m as default};
