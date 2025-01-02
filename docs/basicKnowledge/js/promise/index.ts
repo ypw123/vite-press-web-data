@@ -1,7 +1,7 @@
 const  PENDING = 'PENDING'
 const  FULFILLED= 'FULFILLED'
 const  REJECTED = 'REJECTED'
-
+//22222
 class myPromise{
     status: string
     value:any
