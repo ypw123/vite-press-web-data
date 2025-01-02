@@ -28,13 +28,18 @@ export default defineConfig({
         {
           text:'工程化篇',
           link: '/engineering/index'
+        },
+        {
+          text:'前端框架和浏览器原理',
+          link: '/frame/index'
         }
       ] 
     },
     ],
     sidebar:{
       '/basicKnowledge/': getSideBarList('/basicKnowledge'),
-      '/algorithm/': getSideBarList('/algorithm')
+      '/algorithm/': getSideBarList('/algorithm'),
+      '/frame/': getSideBarList('/frame')
     },
     socialLinks: [
       {

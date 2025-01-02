@@ -1,4 +1,5 @@
 ---
+
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
@@ -15,7 +16,6 @@ hero:
     - theme: alt
       text: 算法篇
       link: /api-examples
-
 features:
   - title: 基础知识篇
     details: 整理的前端基础知识体系
@@ -23,5 +23,6 @@ features:
     details: 简单的循环，就可以解决很复杂的数学问题；递归位置的略微变动，就会产生完全不同的结果
   - title: 前端框架和浏览器原理篇
     details: 对于前端工程师来说，必须要有一个拿手的框架
+pageClass: custom-page-class
 ---
 
